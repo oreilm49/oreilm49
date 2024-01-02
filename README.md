@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2> Hi, I'm Mark O'Reilly! 👋</h2>
 
-<!--
-**oreilm49/oreilm49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Software Enginner at <a href="http://www.megit.com">Megit</a></em></p>
 
-Here are some ideas to get you started:
+[![Twitter: oreilm49](https://img.shields.io/twitter/follow/oreilm49?style=social)](https://twitter.com/oreilm49)
+[![Linkedin: markoreilly](https://img.shields.io/badge/-markoreilly2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markoreilly2/)](https://www.linkedin.com/in/markoreilly2/)
+[![GitHub oreilm49](https://img.shields.io/github/followers/oreilm49?label=follow&style=social)](https://github.com/oreilm49)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const mark = {
+    languages: ["Python", "Javascript", "Golang"],
+    tools: ["Django", "Angular", "Kubernetes", "Docker", "Azure"],
+    databases: ["Postgresql", "MongoDB"],
+    location: "Ireland",
+    hobbies: ["Swim", "Bike", "Run", "Lift"],
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, go ahead!</b> :)</em>
+
+---
