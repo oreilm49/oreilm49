@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="http://www.megit.com">Megit</a></em></p>
 
 [![Twitter: oreilm49](https://img.shields.io/twitter/follow/oreilm49?style=social)](https://twitter.com/oreilm49)
-[![Linkedin: markoreilly](https://img.shields.io/badge/-markoreilly2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markoreilly2/)](https://www.linkedin.com/in/markoreilly2/)
+[![Linkedin: markoreilly2](https://img.shields.io/badge/-markoreilly2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/markoreilly2)](www.linkedin.com/in/markoreilly2)
 [![GitHub oreilm49](https://img.shields.io/github/followers/oreilm49?label=follow&style=social)](https://github.com/oreilm49)
 
 
